@@ -1,0 +1,14 @@
+#Termo geral da PG
+
+a1 = input('Qual o primeiro termo (a1)?')
+a1 = int(a1)
+
+q = input('Qual a razão dessa PG?')
+q = int(q)
+
+n = input('Qual o numero de termos?')
+n = int(n)
+
+an =  a1 * (q ** (n-1))
+
+print(an)
