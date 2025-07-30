@@ -1,0 +1,6 @@
+#imprimir a palavra com espaço entre as letras
+
+palavra = input('Digite uma palavra:')
+
+for spaco in palavra:
+    print(f' {spaco}', end='')
