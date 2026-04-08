@@ -5,15 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b367aac-a695-4360-abac-a8ed74d551f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ex111.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex112.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex113.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex114.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex115.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex116.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex117.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex118.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex118/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex118/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex119/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex119/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex120/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex120/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex121/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex121/utilidadescev/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex121/utilidadescev/dado/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex121/utilidadescev/moeda/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulos/ex01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulos/uteis/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulos/uteis/numeros/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulos/uteis/strings/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex110.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex110.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +63,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.ex001.executor": "Run",
+    "Python.ex01.executor": "Run",
     "Python.ex091.executor": "Run",
     "Python.ex092.executor": "Run",
     "Python.ex093.executor": "Run",
@@ -78,9 +89,15 @@
     "Python.ex115.executor": "Run",
     "Python.ex116.executor": "Run",
     "Python.ex117.executor": "Run",
+    "Python.mod_1.executor": "Run",
+    "Python.teste (1).executor": "Run",
+    "Python.teste (2).executor": "Run",
+    "Python.teste (3).executor": "Run",
+    "Python.teste.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
@@ -93,28 +110,35 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/amand/Documents/Estudos TI/BackEnd/backend_exercises/modulos/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.fileTypes",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.ex117">
-    <configuration name="ex113" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\amand\Documents\Estudos TI\BackEnd\backend_exercises" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.teste (3)">
+    <configuration name="ex01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="backend_exercises" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="SDK_NAME" value="Python 3.14 (backend_exercises)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="false" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex113.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulos/ex01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex114" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="teste (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="backend_exercises" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,13 +156,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex119" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex114.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex119/teste.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +171,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex115" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="teste (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="backend_exercises" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,13 +180,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex120" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex115.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex120/teste.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,7 +195,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex116" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="teste (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="backend_exercises" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,13 +204,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex121" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex116.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex121/teste.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,7 +219,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex117" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="backend_exercises" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -204,13 +228,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex118" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex117.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex118/teste.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,11 +245,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex117" />
-        <item itemvalue="Python.ex116" />
-        <item itemvalue="Python.ex115" />
-        <item itemvalue="Python.ex114" />
-        <item itemvalue="Python.ex113" />
+        <item itemvalue="Python.teste (3)" />
+        <item itemvalue="Python.teste (2)" />
+        <item itemvalue="Python.teste (1)" />
+        <item itemvalue="Python.teste" />
+        <item itemvalue="Python.ex01" />
       </list>
     </recent_temporary>
   </component>
@@ -257,6 +281,11 @@
           <url>file://$PROJECT_DIR$/ex107.py</url>
           <line>34</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/modulos/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
