@@ -5,23 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b367aac-a695-4360-abac-a8ed74d551f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ex118.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex118/moeda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex118/teste.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex119/moeda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex119/teste.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex120/moeda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex120/teste.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex121/teste.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex121/utilidadescev/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex121/utilidadescev/dado/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex121/utilidadescev/moeda/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulos/ex01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulos/uteis/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulos/uteis/numeros/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulos/uteis/strings/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex122.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex123.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,6 +74,8 @@
     "Python.ex115.executor": "Run",
     "Python.ex116.executor": "Run",
     "Python.ex117.executor": "Run",
+    "Python.ex122.executor": "Run",
+    "Python.ex123.executor": "Run",
     "Python.mod_1.executor": "Run",
     "Python.teste (1).executor": "Run",
     "Python.teste (2).executor": "Run",
@@ -124,21 +111,47 @@
       <recent name="C:\Users\amand\Documents\Estudos TI\BackEnd\backend_exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.teste (3)">
-    <configuration name="ex01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex123">
+    <configuration name="ex122" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="backend_exercises" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.14 (backend_exercises)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="false" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulos/ex01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex122.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex123" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="backend_exercises" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex123.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,37 +232,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="backend_exercises" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex118" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex118/teste.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex123" />
+        <item itemvalue="Python.ex122" />
         <item itemvalue="Python.teste (3)" />
         <item itemvalue="Python.teste (2)" />
         <item itemvalue="Python.teste (1)" />
-        <item itemvalue="Python.teste" />
-        <item itemvalue="Python.ex01" />
       </list>
     </recent_temporary>
   </component>
